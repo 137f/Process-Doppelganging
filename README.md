@@ -62,5 +62,14 @@ O programa requer um argumento: o caminho para o executável que você deseja in
 
 ProcessDoppelganging.exe <Caminho_Para_Seu_Payload.exe>
 
+---
 
-O arquivo temporário transacionado será criado em transactFile (e.g., C:\Users\CyberClient\Desktop\logger.txt) e o processo irá se mascarar como coverFile (e.g., C:\error.txt).
+## 💌 Contato
+
+**Caso queira me contatar ou precise de algum serviço, me encontre nas seguintes plataformas:**
+
+**Usuário do Discord: 4wj.**
+
+**Instagram: @glowwz9**
+
+**E-mail: vliyanie1337@proton.me**
